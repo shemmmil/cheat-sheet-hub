@@ -1,0 +1,16 @@
+{
+  "display": [
+    { "class": "inline", "style": "display: inline;" },
+    { "class": "block", "style": "display: block;" },
+    { "class": "inline-block", "style": "display: inline-block;" }
+  ],
+  "position": [
+    { "class": "static", "style": "position: static;" },
+    { "class": "relative", "style": "position: relative;" },
+    { "class": "absolute", "style": "position: absolute;" }
+  ],
+  "flex": [
+    { "class": "flex", "style": "display: flex;" },
+    { "class": "inline-flex", "style": "display: inline-flex;" }
+  ]
+}
